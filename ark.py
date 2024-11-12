@@ -92,7 +92,46 @@ categories = {
     "Storm": (123, 3383, enhance_level_data),
     "Cleave": (83, 2252, mastery_level_data),
     "Hunting": (83, 2252, mastery_level_data),
-    
+    #Shadower
+    "HalveCut": (150, 4500, level_data),
+    "Assault": (123, 3383, enhance_level_data),
+    "TrickBlade": (123, 3383, enhance_level_data),
+    "SonicBlow": (123, 3383, enhance_level_data),
+    "SlashShad": (123, 3383, enhance_level_data),
+    "Assassinate": (83, 2252, mastery_level_data),
+    "MesoExplo": (83, 2252, mastery_level_data),
+    #Luminous
+    "Harmonic": (150, 4500, level_data),
+    "GateLight": (123, 3383, enhance_level_data),
+    "Aether": (123, 3383, enhance_level_data),
+    "Baptism": (123, 3383, enhance_level_data),
+    "Liberation": (123, 3383, enhance_level_data),
+    "Ender": (83, 2252, mastery_level_data),
+    "Reflection": (83, 2252, mastery_level_data),
+    #Fire/Poison
+    "InfernalVen": (150, 4500, level_data),
+    "DoT": (123, 3383, enhance_level_data),
+    "PoisionNova": (123, 3383, enhance_level_data),
+    "Elemental": (123, 3383, enhance_level_data),
+    "PoisonChain": (123, 3383, enhance_level_data),
+    "FlameSweep": (83, 2252, mastery_level_data),
+    "FlameHaze": (83, 2252, mastery_level_data),
+    #DawnWarrior
+    "AstralBlitz": (150, 4500, level_data),
+    "Cosmos": (123, 3383, enhance_level_data),
+    "RiftDamnation": (123, 3383, enhance_level_data),
+    "SoulEclipse": (123, 3383, enhance_level_data),
+    "FlareSlash": (123, 3383, enhance_level_data),
+    "Solar": (83, 2252, mastery_level_data),
+    "CosmicShow": (83, 2252, mastery_level_data),
+    #Path Finder
+    "Forsaken": (150, 4500, level_data),
+    "NovaBlast": (123, 3383, enhance_level_data),
+    "Raven": (123, 3383, enhance_level_data),
+    "Barrier": (123, 3383, enhance_level_data),
+    "Relic": (123, 3383, enhance_level_data),
+    "CardinalBur": (83, 2252, mastery_level_data),
+    "BountifulDel": (83, 2252, mastery_level_data),
 
 }
 
